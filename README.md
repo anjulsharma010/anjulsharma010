@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/dude_0007" target="blank"><img src="https://img.shields.io/twitter/follow/dude_0007?logo=twitter&style=for-the-badge" alt="dude_0007" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Node.js**
+- 🔭 I’m currently working on **Frontend**
+  
+- 👯 I’m looking to collaborate on **Mern Strack**
+
+- 🌱 I’m currently learning **Mern Stack**
 
 - 💬 Ask me about **React.js, JavaScript, Redux, Bootstrap, HTML, CSS**
 
